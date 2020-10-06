@@ -28,7 +28,7 @@ TARGET_BOARD_PLATFORM_GPU := mali-g71
 TARGET_NO_BOOTLOADER := true
 
 # Enable hardware/samsung
-BOARD_VENDOR := samsung
+#BOARD_VENDOR := samsung
 
 ### PROCESSOR
 TARGET_ARCH := arm64
